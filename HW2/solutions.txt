@@ -1,0 +1,7 @@
+Q: What are the things needed for Bootstrap to be loaded?
+A: Bootstrap needs to load Bootstrap's CSS, JS and jQuery from CDN(content delivery network)
+
+Q: How does Bootstrap’s Grid system work?
+A: By using Bootstrap's Grid System, users would be able to creat
+columns(up to 12) in the page. Users can put different contents into 
+those columns, in which shapes they want.  
